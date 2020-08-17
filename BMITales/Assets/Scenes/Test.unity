@@ -812,25 +812,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3459470265856552379, guid: abfcf794fc030004b94f76bfb0c22276,
-        type: 3}
-      propertyPath: sprintSpeed
-      value: 20
-      objectReference: {fileID: 0}
     - target: {fileID: 3459470265856552382, guid: abfcf794fc030004b94f76bfb0c22276,
         type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 3459470266726269678, guid: abfcf794fc030004b94f76bfb0c22276,
-        type: 3}
-      propertyPath: orthographic
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3459470266726269678, guid: abfcf794fc030004b94f76bfb0c22276,
-        type: 3}
-      propertyPath: far clip plane
-      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: abfcf794fc030004b94f76bfb0c22276, type: 3}
